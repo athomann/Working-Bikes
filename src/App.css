@@ -1,0 +1,33 @@
+* {
+	font-family: 'Nunito', sans-serif;
+	color: #4a4a4a;
+}
+
+.App {
+}
+
+.App-logo {
+	height: 40vmin;
+}
+
+.App-header {
+	align-items: center;
+	background-color: rgba(126, 188, 141);
+	border-radius: 50%;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+	display: flex;
+	height: 110px;
+	justify-content: center;
+	left: 1rem;
+	position: absolute;
+	top: 1rem;
+	width: 110px;
+}
+
+.App-header img {
+	height: 100px;
+}
+
+.App-link {
+	color: #09d3ac;
+}

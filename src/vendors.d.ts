@@ -1,0 +1,16 @@
+declare module 'deck.gl';
+declare module '@deck.gl/extensions';
+declare module 'nebula.gl';
+declare module 'turf-buffer';
+declare module 'turf-centroid';
+declare module 'turf-destination';
+declare module 'turf-distance';
+declare module 'turf-inside';
+declare module 'turf-extent';
+declare module 'turf-bbox-polygon';
+declare module 'turf-featurecollection';
+declare module 'turf-point';
+declare module 'turf-polygon';
+declare module 'turf-size';
+declare module '*.less';
+declare module '*.png';
