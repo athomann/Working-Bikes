@@ -2,7 +2,7 @@
   "name": "working-bikes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://whitehouseuprising.github.io/Working-Bikes",
+  "homepage": "http://athomann.github.io/Working-Bikes",
   "dependencies": {
     "@turf/turf": "^5.1.6",
     "@types/jest": "24.0.18",
