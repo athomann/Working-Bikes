@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Working-Bikes/static/css/main.30018c88.chunk.css",
+    "main.js": "/Working-Bikes/static/js/main.b899afd5.chunk.js",
+    "main.js.map": "/Working-Bikes/static/js/main.b899afd5.chunk.js.map",
+    "runtime-main.js": "/Working-Bikes/static/js/runtime-main.bfbca234.js",
+    "runtime-main.js.map": "/Working-Bikes/static/js/runtime-main.bfbca234.js.map",
+    "static/css/2.e71d8db5.chunk.css": "/Working-Bikes/static/css/2.e71d8db5.chunk.css",
+    "static/js/2.c1b66d73.chunk.js": "/Working-Bikes/static/js/2.c1b66d73.chunk.js",
+    "static/js/2.c1b66d73.chunk.js.map": "/Working-Bikes/static/js/2.c1b66d73.chunk.js.map",
+    "static/js/3.efd1276d.chunk.js": "/Working-Bikes/static/js/3.efd1276d.chunk.js",
+    "static/js/3.efd1276d.chunk.js.map": "/Working-Bikes/static/js/3.efd1276d.chunk.js.map",
+    "static/js/4.d78fdc91.chunk.js": "/Working-Bikes/static/js/4.d78fdc91.chunk.js",
+    "static/js/4.d78fdc91.chunk.js.map": "/Working-Bikes/static/js/4.d78fdc91.chunk.js.map",
+    "index.html": "/Working-Bikes/index.html",
+    "precache-manifest.63fed78b0969b21df029c4892be18585.js": "/Working-Bikes/precache-manifest.63fed78b0969b21df029c4892be18585.js",
+    "service-worker.js": "/Working-Bikes/service-worker.js",
+    "static/css/2.e71d8db5.chunk.css.map": "/Working-Bikes/static/css/2.e71d8db5.chunk.css.map",
+    "static/css/main.30018c88.chunk.css.map": "/Working-Bikes/static/css/main.30018c88.chunk.css.map",
+    "static/js/3.efd1276d.chunk.js.LICENSE": "/Working-Bikes/static/js/3.efd1276d.chunk.js.LICENSE",
+    "static/media/logo.png": "/Working-Bikes/static/media/logo.77b83b6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfbca234.js",
+    "static/js/3.efd1276d.chunk.js",
+    "static/css/main.30018c88.chunk.css",
+    "static/js/main.b899afd5.chunk.js"
+  ]
+}
